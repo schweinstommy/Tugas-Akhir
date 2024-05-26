@@ -1,0 +1,21 @@
+{
+  "name": "expertestdemo1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@wdio/cli": "^8.38.0"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^8.38.0",
+    "@wdio/mocha-framework": "^8.38.0",
+    "@wdio/spec-reporter": "^8.38.0",
+    "@wdio/visual-service": "^4.1.3"
+  }
+}
